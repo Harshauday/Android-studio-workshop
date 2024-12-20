@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bday"
+    tools:context=".MainActivity">
+-
+    <ImageView
+        android:layout_width="200sp"
+        android:layout_height="200sp"
+        android:layout_marginTop="40sp"
+        android:layout_marginBottom="30sp"
+        android:layout_marginLeft="100sp"
+        android:background="@drawable/sravyapic"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WISH"
+        android:textStyle="italic"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="50sp"
+        android:textColor="#123"
+        android:textSize="30sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="YOU"
+        android:layout_marginTop="20sp"
+        android:textStyle="italic"
+        android:layout_marginLeft="80sp"
+        android:textSize="30sp"
+        android:textColor="#123"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A"
+        android:layout_marginLeft="130sp"
+        android:layout_marginTop="20sp"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="#123"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HAPPY"
+        android:layout_marginLeft="160sp"
+        android:layout_marginTop="20sp"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="#123"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BIRTHDAY"
+        android:layout_marginLeft="240sp"
+        android:layout_marginTop="20sp"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="#123"/>
+
+
+
+
+
+</LinearLayout>

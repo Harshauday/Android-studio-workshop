@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="#7CB342">
+
+    <ImageView
+        android:layout_width="150sp"
+        android:layout_height="150sp"
+        android:src="@drawable/a"
+        android:id="@+id/iv"
+        android:layout_marginTop="10sp"
+        android:layout_marginLeft="10sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Arya"
+        android:textSize="30sp"
+        android:textColor="#E53535"
+        android:id="@+id/tv"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="55sp"/>
+
+</LinearLayout>

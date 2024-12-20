@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Data</string>
+    <string name="Apssdc">
+
+        Starting in Android 11 (API level 30), the system caches large datasets that multiple
+        apps might access for use cases like machine learning and media playback.
+        This functionality helps reduce data redundancy, both over the network and on disk.
+        When your app needs access to a shared large dataset, it can first look for these cached datasets,
+        called shared data blobs, before determining whether to download a new copy. Apps can access these
+        shared datasets functionality using the APIs in boldstoremanager
+        The system represents each shared data blob using a BlobHandle object. Each instance of BlobHandle contains
+        a cryptographically-secure hash and some identifying details for the dataset.
+        To access shared data blobs, download identifying details from the server.
+        Using these details, check whether the dataset is already available on the system.
+        The next step depends on whether data is available
+        Starting in Android 11 (API level 30), the system caches large datasets that multiple
+        apps might access for use cases like machine learning and media playback.
+        This functionality helps reduce data redundancy, both over the network and on disk.
+        When your app needs access to a shared large dataset, it can first look for these cached datasets,
+        called shared data blobs, before determining whether to download a new copy. Apps can access these
+        shared datasets functionality using the APIs in boldstoremanager
+        The system represents each shared data blob using a BlobHandle object. Each instance of BlobHandle contains
+        a cryptographically-secure hash and some identifying details for the dataset.
+        To access shared data blobs, download identifying details from the server.
+        Using these details, check whether the dataset is already available on the system.
+        The next step depends on whether data is available 9874561230
+        Starting in Android 11 (API level 30), the system caches large datasets that multiple
+        apps might access for use cases like machine learning and media playback.
+        This functionality helps reduce data redundancy, both over the network and on disk.
+        When your app needs access to a shared large dataset, it can first look for these cached datasets,
+        called shared data blobs, before determining whether to download a new copy. Apps can access these
+        shared datasets functionality using the APIs in boldstoremanager
+        http://engineering.apssdc.in/
+        The system represents each shared data blob using a BlobHandle object. Each instance of BlobHandle contains
+        a cryptographically-secure hash and some identifying details for the dataset.
+        To access shared data blobs, download identifying details from the server.
+        abcd@gmail.com
+        Using these details, check whether the dataset is already available on the system.
+        The next step depends on whether data is available
+
+    </string>
+</resources>

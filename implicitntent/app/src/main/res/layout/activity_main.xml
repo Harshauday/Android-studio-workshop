@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#2293C6"
+    tools:context=".MainActivity">
+
+    <Button
+        android:onClick="Google"
+        android:text="Google"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="#123"
+        android:backgroundTint="#B8CDC4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="10sp"
+        />
+    <Button
+        android:onClick="Dail"
+        android:text="Dail"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="#123"
+        android:backgroundTint="#3EC144"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="10sp"
+        />
+    <Button
+        android:onClick="Camera"
+        android:text="Camera"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="#123"
+        android:backgroundTint="#3949AA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="10sp"
+        />
+
+</LinearLayout>
